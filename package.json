@@ -1,6 +1,6 @@
 {
   "name": "addressr",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Addressr API wrapper",
   "main": "addressr.js",
   "scripts": {
