@@ -11,6 +11,10 @@
   ],
   "author": "Addressr <info@addressr.co> (https://www.addressr.co)",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/addressr/addressr-node.git"
+  },
   "dependencies": {
     "request": "^2.83.0",
     "request-promise": "^4.2.2"
